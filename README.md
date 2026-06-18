@@ -12,6 +12,9 @@
 
 <img width="1536" height="1024" alt="ab4086d2-ef18-4cb2-874f-2c9baddefc0e" src="https://github.com/user-attachments/assets/159e6393-aa35-43e0-bc6d-583736745816" />
 
+
+
+
 우선 위의 그림에서 부동산 지식문서("법률 정보","규정"등)절대로 훼손되면 안되는 정보를 뽑아내서 찾아 낼때는 보통 LLM 질문에 답을 생성하기전 벡터(BOW, BM25, LLM2vec)등을 참조 해서 답변을 생성하고 이를 참조 하는데
 기존에 openmodel에서는 이를 조절하기 어려움.
 
