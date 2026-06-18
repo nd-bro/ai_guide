@@ -21,7 +21,11 @@
 Sonnet을 기준으로 그나마 변경 할 수 있는 paramater가 있는데
 
 Temperature(모델의 온도) : 0.0 ~ 0.2로 낮게 설정. temperature 낮을수록 모델이 창의적인 단어를 만들어내는 것을 막고, 검색된 문서에 있는 내용을 바탕으로 객관적이고 사실적인 답변을 생성.
+
 (<img width="724" height="567" alt="image" src="https://github.com/user-attachments/assets/11a73394-cb11-438e-8045-4bbc9b43086c" />)
+
+
+
 위와 같이 temperature를 조절할때 마다 모델이 출력하는 결과물의 위와 같음
 
 Top-K : 10 ~ 30 정도로 설정하여 가장 연관성이 높은 상위 문서 청크(Chunk)만 모델에 전달. 너무 많은 문서를 넘기면 오히려 모델이 핵심 정보를 놓칠 수 있음.
