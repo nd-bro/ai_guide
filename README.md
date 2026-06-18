@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f6cd6a4a-dd3f-4ad1-9cbd-974566b68e73" />[개발자조언요청_챗봇_할루0유지_기능강화_보고서_20260616.md](https://github.com/user-attachments/files/29073900/_._.0._._._20260616.md)
+[개발자조언요청_챗봇_할루0유지_기능강화_보고서_20260616.md](https://github.com/user-attachments/files/29073900/_._.0._._._20260616.md)
 # ai_guide
 eliteia guide
 # 부동산 AI 챗봇 — 할루0 유지하면서 기능 살리기, 조언 요청 보고서
